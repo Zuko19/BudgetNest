@@ -30,10 +30,19 @@ BudgetNest is a minimalist web budget tracker that helps you manage income and e
 Add your screenshots to the `/public/screenshots/` folder or directly in `/public/`.  
 Reference them in this README as below (replace with your own images):
 
+Welcome Screen
 ![Welcome Page](public/screenshots/login-desktop.png)
+
+Login Form
 ![Sign In Form](public/screenshots/login.png)  
-![Sign-up Form](public/screenshots/signup.png)
+
+Sign-up Form
+![Sign-up Form](public/screenshots/Signup.png)
+
+Dashboard and Income Section
 ![Dashboard & Income Section](public/screenshots/dashboard-income.png)
+
+Expense Section
 ![Expense Section](public/screenshots/Dashboard%20-%20Expense.png)  
 
 
