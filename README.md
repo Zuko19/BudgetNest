@@ -144,8 +144,6 @@ No. Simply visit the website on any device.
 **How is my data protected?**  
 All data is protected with authentication and secure access control.
 
-**Forgot your password?**  
-Click “Forgot password?” on the login screen (if enabled), or contact the app administrator for help.
 
 ## 🌐 Deployment
 
@@ -157,7 +155,6 @@ Click “Forgot password?” on the login screen (if enabled), or contact the ap
 
 Vercel will detect Next.js and handle everything else.
 
-> Remember to update the Site URL in Supabase Auth → URL Configuration (add your live Vercel site URL).
 
 ## 🧩 Project Structure
 
@@ -187,4 +184,3 @@ All contributions are welcome!
 
 Fork the repo, create a branch, make your changes, and open a pull request.
 
-For issues/feature requests, use [GitHub Issues](https://github.com).
