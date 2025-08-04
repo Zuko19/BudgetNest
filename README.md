@@ -30,10 +30,19 @@ BudgetNest is a minimalist web budget tracker that helps you manage income and e
 Add your screenshots to the `/public/screenshots/` folder or directly in `/public/`.  
 Reference them in this README as below (replace with your own images):
 
+Welcome Screen
 ![Welcome Page](public/screenshots/login-desktop.png)
+
+Login Form
 ![Sign In Form](public/screenshots/login.png)  
-![Sign-up Form](public/screenshots/signup.png)
+
+Sign-up Form
+![Sign-up Form](public/screenshots/Signup.png)
+
+Dashboard and Income Section
 ![Dashboard & Income Section](public/screenshots/dashboard-income.png)
+
+Expense Section
 ![Expense Section](public/screenshots/Dashboard%20-%20Expense.png)  
 
 
@@ -135,8 +144,6 @@ No. Simply visit the website on any device.
 **How is my data protected?**  
 All data is protected with authentication and secure access control.
 
-**Forgot your password?**  
-Click “Forgot password?” on the login screen (if enabled), or contact the app administrator for help.
 
 ## 🌐 Deployment
 
@@ -148,7 +155,6 @@ Click “Forgot password?” on the login screen (if enabled), or contact the ap
 
 Vercel will detect Next.js and handle everything else.
 
-> Remember to update the Site URL in Supabase Auth → URL Configuration (add your live Vercel site URL).
 
 ## 🧩 Project Structure
 
@@ -178,4 +184,3 @@ All contributions are welcome!
 
 Fork the repo, create a branch, make your changes, and open a pull request.
 
-For issues/feature requests, use [GitHub Issues](https://github.com).
